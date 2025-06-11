@@ -46,7 +46,7 @@ In the wave-equation extension, the boundary conditions are not fixed; instead, 
 
 ## Files
 
-- `Example1BurgersEquation.ipynb` — Reproduces the 1D Burgers' equation example from the original paper.
+- `BurgersEquation.ipynb` — Reproduces the 1D Burgers' equation example from the original paper.
 - `PINN_WaveEq_Family_GitHubReady.ipynb` — Experiments with solving a family of wave equations using the PINNs framwork.
 - `README.md` — This document.
 
